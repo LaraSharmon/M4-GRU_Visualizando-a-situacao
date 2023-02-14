@@ -1,4 +1,4 @@
-# Projeto Visualizando a situação
+# Projeto Módulo 4 - Visualizando a situação
 
 O objetivo deste projeto foi criar um dashboard para explorar e apresentar um conjunto de dados sobre a série "Game of Thrones". O projeto teve como objetivo resolver o problema de acúmulo de dados sem uma visão padronizada.
 O processo envolveu a modelagem das tabelas do banco de dados, a criação de visualizações dos dados e a montagem de uma apresentação com as perguntas e análise exploratória dos dados selecionados.
